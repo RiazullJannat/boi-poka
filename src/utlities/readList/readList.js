@@ -21,4 +21,4 @@ function addReadList(bookId){
     }
 
 }
-export {addReadList}
+export {addReadList, getReadList}
